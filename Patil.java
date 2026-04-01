@@ -1,1 +1,1 @@
-Print("hello world Latur");
+Print("hello world Latur ganjgolayi");
